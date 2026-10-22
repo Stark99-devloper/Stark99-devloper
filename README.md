@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🚀 Hi, I'm Stark!
 
-<!--
-**Stark99-devloper/Stark99-devloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building the future, one line of code at a time.
 
-Here are some ideas to get you started:
+* 💻 Passionate about **Python**, **Software Engineering**, and **Problem Solving**.
+* 🎯 Focused on mastering high-income tech skills and building impactful projects.
+* ⚡ *Curious by nature, developer by choice.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What I'm currently working on:
+* Learning Python fundamentals & Logic building.
+* Setting up my developer portfolio on GitHub.
+
